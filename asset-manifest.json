@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.08877ed1.css",
-    "main.js": "/static/js/main.d349e2c4.js",
-    "static/media/project7.png": "/static/media/project7.a35db794da6afd2d8cf0.png",
-    "static/media/project3.png": "/static/media/project3.853f7836f0668f106e1e.png",
-    "static/media/2.jpg": "/static/media/2.18f71dfc0e72ef8ec76b.jpg",
-    "static/media/project6.png": "/static/media/project6.0bd2c0894e1725415e85.png",
-    "static/media/project1.png": "/static/media/project1.291a7be324a1e96cdc25.png",
-    "static/media/project4.png": "/static/media/project4.519ed35519831ed475ca.png",
-    "static/media/project2.png": "/static/media/project2.0132ae5970e96f1c3038.png",
-    "static/media/Me2.png": "/static/media/Me2.f5659d72bfadbcb91c50.png",
-    "static/media/cv.pdf": "/static/media/cv.e9886412b9919d9f850a.pdf",
-    "static/media/project5.png": "/static/media/project5.2a0a7252043b1bff9c91.png",
-    "static/media/shape-1.png": "/static/media/shape-1.25e4d49076a6fd169b83.png",
-    "index.html": "/index.html",
-    "main.08877ed1.css.map": "/static/css/main.08877ed1.css.map",
-    "main.d349e2c4.js.map": "/static/js/main.d349e2c4.js.map"
+    "main.css": "/kanokjan/static/css/main.08877ed1.css",
+    "main.js": "/kanokjan/static/js/main.10ec562f.js",
+    "static/media/project7.png": "/kanokjan/static/media/project7.a35db794da6afd2d8cf0.png",
+    "static/media/project3.png": "/kanokjan/static/media/project3.853f7836f0668f106e1e.png",
+    "static/media/2.jpg": "/kanokjan/static/media/2.18f71dfc0e72ef8ec76b.jpg",
+    "static/media/project6.png": "/kanokjan/static/media/project6.0bd2c0894e1725415e85.png",
+    "static/media/project1.png": "/kanokjan/static/media/project1.291a7be324a1e96cdc25.png",
+    "static/media/project4.png": "/kanokjan/static/media/project4.519ed35519831ed475ca.png",
+    "static/media/project2.png": "/kanokjan/static/media/project2.0132ae5970e96f1c3038.png",
+    "static/media/Me2.png": "/kanokjan/static/media/Me2.f5659d72bfadbcb91c50.png",
+    "static/media/cv.pdf": "/kanokjan/static/media/cv.e9886412b9919d9f850a.pdf",
+    "static/media/project5.png": "/kanokjan/static/media/project5.2a0a7252043b1bff9c91.png",
+    "static/media/shape-1.png": "/kanokjan/static/media/shape-1.25e4d49076a6fd169b83.png",
+    "index.html": "/kanokjan/index.html",
+    "main.08877ed1.css.map": "/kanokjan/static/css/main.08877ed1.css.map",
+    "main.10ec562f.js.map": "/kanokjan/static/js/main.10ec562f.js.map"
   },
   "entrypoints": [
     "static/css/main.08877ed1.css",
-    "static/js/main.d349e2c4.js"
+    "static/js/main.10ec562f.js"
   ]
 }
